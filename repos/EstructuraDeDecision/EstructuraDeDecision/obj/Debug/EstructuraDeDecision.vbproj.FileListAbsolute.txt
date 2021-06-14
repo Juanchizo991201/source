@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\bin\Debug\EstructuraDeDecision.exe.config
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\bin\Debug\EstructuraDeDecision.exe
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\bin\Debug\EstructuraDeDecision.pdb
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\bin\Debug\EstructuraDeDecision.xml
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\obj\Debug\EstructuraDeDecision.vbproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\obj\Debug\EstructuraDeDecision.Resources.resources
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\obj\Debug\EstructuraDeDecision.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\obj\Debug\EstructuraDeDecision.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\obj\Debug\EstructuraDeDecision.exe
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\obj\Debug\EstructuraDeDecision.xml
+C:\Users\Usuario\source\repos\EstructuraDeDecision\EstructuraDeDecision\obj\Debug\EstructuraDeDecision.pdb

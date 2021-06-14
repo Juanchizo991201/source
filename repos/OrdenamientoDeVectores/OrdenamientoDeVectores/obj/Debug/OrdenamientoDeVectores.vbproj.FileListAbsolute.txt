@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\obj\Debug\OrdenamientoDeVectores.vbproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\obj\Debug\OrdenamientoDeVectores.Resources.resources
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\obj\Debug\OrdenamientoDeVectores.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\obj\Debug\OrdenamientoDeVectores.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\bin\Debug\OrdenamientoDeVectores.exe.config
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\bin\Debug\OrdenamientoDeVectores.exe
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\bin\Debug\OrdenamientoDeVectores.pdb
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\bin\Debug\OrdenamientoDeVectores.xml
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\obj\Debug\OrdenamientoDeVectores.exe
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\obj\Debug\OrdenamientoDeVectores.xml
+C:\Users\Usuario\source\repos\OrdenamientoDeVectores\OrdenamientoDeVectores\obj\Debug\OrdenamientoDeVectores.pdb
